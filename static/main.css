@@ -1,0 +1,17 @@
+*{
+    /* outline: 1px dotted red; */
+    margin-left: 10px;
+}
+img{
+    width:300px;
+}
+div.cat1{
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+div.cat2{
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
